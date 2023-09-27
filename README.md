@@ -2,6 +2,8 @@
 
   - My Personal Interests are listening to music, watching movies and 
 playing Badminton
+  - I have interest in data base management Systems
+  - I would like work on data engineering
   
 ## Technical Background
 
