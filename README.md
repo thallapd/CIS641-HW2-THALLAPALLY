@@ -7,4 +7,4 @@ playing Badminton
 
  I have done my undergraduate under Electrical and electronics Engineering. I do not have any work experience. But I have basic understanding in programming languages.
  
-[https://i.pinimg.com/736x/4a/17/de/4a17de2149fefbb2146110c3d3a41db0.jpg]
+https://cdn.kqed.org/wp-content/uploads/sites/38/2019/03/tomemeornot3-768x384.jpg
