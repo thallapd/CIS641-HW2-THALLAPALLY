@@ -13,4 +13,4 @@ https://cdn.kqed.org/wp-content/uploads/sites/38/2019/03/tomemeornot3-768x384.jp
 
 ## Term Project
 
-This semester, my project is dedicated to Inventory Management with a primary focus on actions such as adding, modifying, and relocating items. This project aims to simplify these essential processes, leading to a more effective and well-organized inventory system. These improvements will result in time and cost savings, enhancing overall productivity. It's a project with a specific goal of optimizing our day-to-day operations.
+This semester, I'm working on a project about inventory management, with a particular emphasis on adding, updating, and transferring objects. With the help of this project, a more efficient and well-organized inventory system will be created by streamlining these crucial procedures. The productivity will increase overall as a result of the time and money savings from these changes. It's an initiative whose primary objective is to improve how we conduct business every day.
