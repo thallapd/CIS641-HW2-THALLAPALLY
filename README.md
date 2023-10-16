@@ -11,6 +11,8 @@ playing Badminton
  
 https://cdn.kqed.org/wp-content/uploads/sites/38/2019/03/tomemeornot3-768x384.jpg
 
+[Team page] (https://saitammineedi19.github.io/GVSU-CIS641-TEAM-GDMS/)
+
 ## Term Project
 
 This semester, I'm working on a project about inventory management, with a particular emphasis on adding, updating, and transferring objects. With the help of this project, a more efficient and well-organized inventory system will be created by streamlining these crucial procedures. The productivity will increase overall as a result of the time and money savings from these changes. It's an initiative whose primary objective is to improve how we conduct business every day.
