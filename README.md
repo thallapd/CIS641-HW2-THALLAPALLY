@@ -11,7 +11,8 @@ playing Badminton
  
 https://cdn.kqed.org/wp-content/uploads/sites/38/2019/03/tomemeornot3-768x384.jpg
 
-[Team page] (https://saitammineedi19.github.io/GVSU-CIS641-TEAM-GDMS/)
+## Team page
+https://saitammineedi19.github.io/GVSU-CIS641-TEAM-GDMS/
 
 ## Term Project
 
